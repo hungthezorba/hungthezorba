@@ -1,4 +1,11 @@
-### Hi there, I'm Hưng 👋
+### Hi there 👋
+
+I'm Hung, an IT student of [RMIT Vietnam](https://www.rmit.edu.vn). I like web development and mobile as well. 
+Since 2019, I have created 2 small websites: project management and Covid-19 tracking map.
+
+🔭 I’m currently working on [Tendermate](https://github.com/hungthezorba/tendermate-front-end), [Dotatify](https://github.com/hungthezorba/dotatify).
+
+🌱 I’m currently learning C++ and some web technologies for my projects.
 
 <!--
 **hungthezorba/hungthezorba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
